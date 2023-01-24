@@ -1,0 +1,13 @@
+h2 {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  border-style: solid;
+  color: rgb(245, 234, 206);
+  font-size: 40px;
+  font-style: italic;
+  font-weight: 5;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding: 10px;
+  text-align: center;
+}

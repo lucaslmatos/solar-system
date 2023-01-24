@@ -1,0 +1,51 @@
+.name {
+  color: white;
+  font-size: 20px;
+}
+
+.card {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column-reverse;
+  justify-content: space-evenly;
+}
+
+.Mercúrio {
+  margin: 20px;
+  width: 41px;
+}
+
+.Vênus {
+  margin: 20px;
+  width: 102px;
+}
+
+.Terra {
+  margin: 20px;
+  width: 106px;
+}
+
+.Marte {
+  margin: 20px;
+  width: 66px;
+}
+
+.Júpiter {
+  margin: 20px;
+  width: 272px;
+}
+
+.Saturno {
+  margin: 20px;
+  width: 282px;
+}
+
+.Urano {
+  margin: 20px;
+  width: 144px;
+}
+
+.Netuno {
+  margin: 20px;
+  width: 144px;
+}
