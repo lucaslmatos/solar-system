@@ -1,51 +1,77 @@
 .name {
   color: white;
   font-size: 20px;
+  font-style: italic;
+  margin-top: 230px;
+  position: absolute;
 }
 
 .card {
   align-items: center;
   display: inline-flex;
   flex-direction: column-reverse;
-  justify-content: space-evenly;
 }
 
 .Mercúrio {
+  flex-shrink: 1;
   margin: 20px;
-  width: 41px;
+  max-width: 41px;
+  width: 100%;
+  z-index: 1;
 }
 
 .Vênus {
+  flex-shrink: 1;
   margin: 20px;
-  width: 102px;
+  max-width: 102px;
+  width: 100%;
+  z-index: 1;
 }
 
 .Terra {
+  flex-shrink: 1;
   margin: 20px;
-  width: 106px;
+  max-width: 106px;
+  width: 100%;
+  z-index: 1;
 }
 
 .Marte {
+  flex-shrink: 1;
   margin: 20px;
-  width: 66px;
+  max-width: 66px;
+  width: 100%;
+  z-index: 1;
 }
 
 .Júpiter {
+  flex-shrink: 1;
   margin: 20px;
-  width: 272px;
+  max-width: 272px;
+  width: 100%;
+  z-index: 1;
 }
 
 .Saturno {
+  flex-shrink: 1;
   margin: 20px;
-  width: 282px;
+  max-width: 282px;
+  width: 100%;
+  z-index: 1;
 }
 
 .Urano {
+  flex-shrink: 1;
   margin: 20px;
-  width: 144px;
+  max-width: 144px;
+  width: 100%;
+  z-index: 1;
 }
 
 .Netuno {
+  flex-shrink: 1;
   margin: 20px;
-  width: 144px;
+  max-width: 144px;
+  width: 100%;
+  z-index: 1;
 }

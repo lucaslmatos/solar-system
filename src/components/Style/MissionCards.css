@@ -1,0 +1,23 @@
+.MissionsPlace {
+  margin-bottom: 150px;
+  margin-left: 5%;
+  margin-right: 5%;
+  text-align: center;
+}
+
+.missionCards {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-radius: 8px;
+  border-style: solid;
+  color: rgb(245, 234, 206);
+  display: inline-flex;
+  flex-direction: column;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 5;
+  height: 150px;
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+  width: 160px;
+}
